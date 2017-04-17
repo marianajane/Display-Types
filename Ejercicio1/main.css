@@ -1,0 +1,15 @@
+.textos {
+	display: block;
+	font-family: helvetica;
+	font-size: 18px;
+}
+
+div {
+	background-color: yellow;
+	padding: 20px;
+}
+
+#rojo {
+	background-color: red;
+	border: 1px solid black;
+}
