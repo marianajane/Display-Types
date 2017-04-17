@@ -1,14 +1,16 @@
 .textos {
 	display: block;
 	font-family: helvetica;
-	font-size: 18px;
-	margin-left: 550px;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 520px;
 }
 
 div {
-	display: block;
+	display: inline;
 	background-color: yellow;
 	margin-top: 15px;
+	margin-right: 5px;
 	padding: 10px;
 	height: 50px;
 	width: 190px;
