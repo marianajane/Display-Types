@@ -3,11 +3,11 @@
 	font-family: helvetica;
 	font-size: 20px;
 	margin-top: 30px;
-	margin-left: 520px;
+	margin-left: 350px;
 }
 
 div {
-	display: inline;
+	display: inline-block;
 	background-color: yellow;
 	margin-top: 15px;
 	margin-right: 5px;
